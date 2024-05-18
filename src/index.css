@@ -1,0 +1,58 @@
+img{
+  width:200px;
+  height:200px;
+}
+#Remove,.ri-shopping-cart-fill
+{
+  border:none !important;
+  color:White !important;
+  font-size: 20px;
+  margin-top: auto;
+  margin-bottom: auto;
+  background-color:RGB(255 121 0);
+}
+#btn
+{
+  border:none;
+  background-color: RGB(255 121 0);
+  color:white;
+  font-weight: bolder;
+  margin-top: 35%;
+}
+.text-muted
+{
+  color:RGB(141 141 141) !important;
+}
+#total
+{
+  text-align: right !important;
+}
+.ss
+{
+  background-color: RGB(255 121 0);
+  color:white;
+  font-weight: bolder;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.head
+{
+  background-color: RGB(255 121 0);
+  color:white;
+  font-weight: bolder;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.btn{
+    display: block;
+    margin: auto;
+  }
+.align
+{
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
