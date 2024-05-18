@@ -1,7 +1,4 @@
 import React, { createContext, useState } from 'react';
-import CompA from './Components/CompA';
-import CompB from './Components/CompB';
-import CompC from './Components/CompC';
 import Cart from './Components/Cart';
 
 export const mycontext=createContext('');
@@ -101,9 +98,7 @@ const App = () => {
         }
     ]
   const[data,setData]=useState(value);
-  
-  const[contextValue,setContextValue]=useState(0)
-  const[cv,setCv]=useState("dell")
+
   return (
     <div>
       {/*<h1>Context API</h1>
